@@ -2,7 +2,7 @@
 
 I'm Sean, a software engineer in the UK. I focus primarily on full-stack web but have been known to dabble in command line and desktop applications.
 
-- 🚜 My best known ecosystems are dotnet which I've been working in since 2005.
+- 🚜 My best known ecosystem is dotnet which I've been working in since 2005.
 - 🏠 I've also worked extensively in javascript, typescript and react.
 - 🌱 I’m currently learning rust and would like to learn svelte and previously learned some go.
 - 🎮 Occasionally I dip into game development godot.
