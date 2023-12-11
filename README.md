@@ -10,6 +10,8 @@ I'm Sean, a software engineer in the UK. I focus primarily on full-stack web but
 ---
 
 <a href="https://github.com/blacktau">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=blacktau&theme=aura&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blacktau&theme=aura&layout=donut" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=blacktau&theme=tokyonight&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blacktau&theme=tokyonight&layout=donut" />
 </a>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=blacktau&theme=tokyonight)](https://github.com/blacktau)
